@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Toyota Corolla",
+    "category": "Hatchback",
+    "manufacturer": "Toyota",
+    "variant": "1.8 Hybrid Design",
+    "description": "A compact hybrid hatchback with supportive seats, easy controls, and a quiet cabin for everyday driving.",
+    "tip": "Try the hybrid system in slow traffic during a test drive."
+  },
+  {
+    "name": "Volvo XC60",
+    "category": "SUV",
+    "manufacturer": "Volvo",
+    "variant": "B5 Plus AWD",
+    "description": "A comfortable SUV with a spacious cabin. Take a drive to explore the visibility and relaxed driving position.",
+    "tip": "Check the rear seats and boot space before a test drive."
+  },
+  {
+    "name": "Toyota GR86",
+    "category": "Coupe",
+    "manufacturer": "Toyota",
+    "variant": "2.4 Boxer Manual",
+    "description": "A compact sports coupe with responsive steering and a set of simple controls designed around the driver.",
+    "tip": "Try the manual gearbox on a varied test-drive route."
+  }
+]

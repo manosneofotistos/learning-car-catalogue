@@ -1,0 +1,12 @@
+# Defines our HTTP endpoints and generates interactive API documentation.
+fastapi==0.115.12
+
+# Runs the server that receives HTTP requests.
+uvicorn==0.34.2
+
+#CHECKPOINT 14 automate the backend checks using temporary databases.
+# Discovers and runs automated tests.
+pytest==8.3.5
+
+# Required by FastAPI's in-process HTTP test client.
+httpx==0.28.1

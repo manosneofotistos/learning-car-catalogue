@@ -1,0 +1,12 @@
+# Installed Python packages belong to each developer's environment.
+.venv/
+
+# Python creates these files when it imports and runs code.
+__pycache__/
+*.pyc
+
+# Automated tests create this cache.
+.pytest_cache/
+
+# Local database files contain changing application data.
+data/*.db*
